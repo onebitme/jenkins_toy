@@ -8,3 +8,4 @@ Hope it works
 1. ssh + local.run
 1. Port Issue?
 1.80: <somename>:8080
+  1. EOF Error?
