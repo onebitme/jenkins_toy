@@ -1,7 +1,7 @@
 ## Hello_Jenkins <img align="right" src="img/liatrio.png">
 This simple exercise is designed to introduce you to Jenkins and continuous integration. This was originally written
 as an exercise for California State University, Chico. I have since modified it to be a simple exercise for anyone
-to use. 
+to use. Lets Try
 
 ### Overview
 1. Fork the repo.
