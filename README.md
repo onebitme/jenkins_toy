@@ -1,3 +1,5 @@
+[![Build Status](http://localhost:8080/job/JP_toy/badge/icon)](http://localhost:8080/job/JP_toy/)
+
 # jenkins_toy
 Jenkins setup, triggers, etc
 Now I am trying a trigger - -
@@ -18,3 +20,4 @@ Hope it works
   1. Helloworld CPP code added
   1. Added Console instructions
   1. SUCCESSS!!!
+  1. Adding badge? of course it wont work without a web IP
