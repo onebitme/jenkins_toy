@@ -1,4 +1,5 @@
 [![Build Status](http://a62855c101ec.ngrok.io/job/JP_toy/badge/icon)](http://a62855c101ec.ngrok.io/job/JP_toy/)
+[![Build Status](http://a62855c101ec.ngrok.io/buildStatus/icon?job=JP_toy)](http://a62855c101ec.ngrok.io/job/JP_toy/)
 
 # jenkins_toy
 Jenkins setup, triggers, etc
