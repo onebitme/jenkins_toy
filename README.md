@@ -21,3 +21,4 @@ Hope it works
   1. Added Console instructions
   1. SUCCESSS!!!
   1. Adding badge? of course it wont work without a web IP
+  1. Cool Badge is added
